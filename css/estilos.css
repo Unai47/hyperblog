@@ -17,6 +17,15 @@ body
 #contenido
 {
     background-color: deeppink;
-    margin: 30%;
-    margin-top: 0%;    
+    margin-right: 30%;
+    margin-left: 30%;    
+}
+#footer
+{
+    background-color: gray;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    font-weight: bold;
 }
