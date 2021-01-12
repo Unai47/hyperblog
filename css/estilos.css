@@ -4,3 +4,19 @@ body
     text-align: center;
     font-family: "Arial";
 }
+
+#cabecera
+{
+    background-color: deepskyblue;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding: 5%;
+    font-size: 50;
+}
+
+#contenido
+{
+    background-color: deeppink;
+    margin: 30%;
+    margin-top: 0%;    
+}
