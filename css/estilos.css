@@ -4,3 +4,12 @@ body
     text-align: center;
     font-family: "Arial";
 }
+#footer
+{
+    background-color: gray;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    font-weight: bold;
+}
